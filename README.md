@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning chemistry at EPFL
+📫 How to reach me: clotilde.perrot@epfl.ch
 <!--
 **cloperrot/cloperrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
